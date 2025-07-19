@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🚀 Tamizharasan</h1>
+  <h1> Tamizharasan</h1>
   <h3>Full Stack Developer • Java Enthusiast • AI Student</h3>
   <p><em>19-Year-Old Tech Explorer from Chennai, India 🇮🇳</em></p>
   
