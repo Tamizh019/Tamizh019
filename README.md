@@ -1,6 +1,6 @@
 <h1 align="center">Tamizharasan</h1>
 <h3 align="center">Full Stack Developer | Java Enthusiast | AI Student</h3>
-<h4 align="center">Chennai, Tamil Nadu, India 🇮🇳</h4>
+<h4 align="center">19-Year-Old Tech Explorer | Chennai, Tamil Nadu, India 🇮🇳</h4>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
@@ -14,22 +14,23 @@
 - 💻 Currently developing **Chill Space** – Full stack application with Supabase authentication
 - 🔧 Focused on **Java DSA, Full Stack Development, and Modern Web Technologies**
 - 🌐 **IoT Developer** – Created **Weather Sync**, an Arduino-based smart environmental monitoring system
-- 🛡️ **Cybersecurity Enthusiast** – Active in CTF competitions and security research
+- 🎨 **3D Design Enthusiast** – Experience in Blender for 3D modeling and visualization
 - 🎮 **Strategic Leader** – Managing a Level 19 clan in Clash of Clans
-- 🎯 **Goal-Oriented** – Building production-ready applications and mastering DSA
+- 🎯 **19-year-old tech explorer** who loves to develop, innovate, and explore emerging technologies
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,bootstrap,react,mysql,git,github,vscode,supabase,arduino" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,bootstrap,react,mysql,git,github,vscode,blender,supabase,arduino" />
 </p>
 
 **Languages:** Java, JavaScript, HTML5, CSS3  
 **Frontend:** Bootstrap, React, Particles.js  
 **Backend:** Java, JDBC, Supabase  
 **Database:** MySQL  
+**3D Design:** Blender (modeling, visualization, creative projects)  
 **Tools:** Git, VS Code, **Cursor AI**, Arduino IDE  
 **Cloud:** Supabase Auth & Database  
 **AI Integration:** Leveraging AI tools for rapid development and code optimization
@@ -96,8 +97,10 @@ Modern login/register interfaces with particle animations and secure backend log
 
 - 🎤 **Public Speaking** – Enhancing communication skills
 - 🔍 **Cybersecurity Research** – CTF competitions and vulnerability analysis
-- 🎨 **UI/UX Design** – Clean, minimalist design principles
-- 💡 **Emerging Technologies** – Blockchain and cryptocurrency exploration
+- 🎨 **3D Design & Visualization** – Creating models and renders using Blender
+- 💡 **Tech Exploration** – Always curious about emerging technologies and innovation
+- 🧠 **Creative Problem Solving** – Combining technical skills with artistic vision
+- 💎 **Blockchain & Cryptocurrency** – Understanding decentralized technologies
 
 ---
 
@@ -112,7 +115,6 @@ Modern login/register interfaces with particle animations and secure backend log
 ---
 
 <p align="center">
-  <i>"Building the future, one commit at a time"</i>
+  <i>"Building the future, one commit at a time - A 19-year-old's journey through code, creativity, and innovation"</i>
 </p>
 
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=jefftamizh.readme)
