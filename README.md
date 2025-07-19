@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Tamizharasan</h1>
+  <h1> TAMIZHARASAN </h1>
   <h3>Full Stack Developer • Java Enthusiast • AI Student</h3>
   <p><em>19-Year-Old Tech Explorer from Chennai, India 🇮🇳</em></p>
   
@@ -60,6 +60,7 @@ Building **production-ready applications** with modern technologies
 | **🌀 Chill Space** | Full stack app with Supabase auth & modern UI | **[→ View Live](https://tamizh-loginpage.netlify.app/)** |
 | **🌤️ Weather Sync** | Arduino IoT system with DHT sensors & LED control | *Hardware Project* |
 | **🏢 Java CRM** | Enterprise CRM system with database integration | *Team Project* |
+| **🔗 Portfolio**| Touch the link to visit My Portfolio | **[→ Portfolio](https://tamizharasan-portfolio.netlify.app/)** |
 
 ---
 
