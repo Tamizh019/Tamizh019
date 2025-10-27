@@ -16,7 +16,7 @@
 Building **production-ready applications** with modern technologies  
 
 🌐 **Game Developer** • 🎨 **3D Design Enthusiast** • 🛡️ **Cybersecurity Researcher**  
-🎮 **Strategi Leader** 
+🎮 **Strategic Leader** 
 
 </div>
 
