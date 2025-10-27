@@ -15,8 +15,8 @@
 **CSE-AI Student** at **Sathyabama Institute of Science and Technology**  
 Building **production-ready applications** with modern technologies  
 
-🌐 **IoT Developer** • 🎨 **3D Design Enthusiast** • 🛡️ **Cybersecurity Researcher**  
-🎮 **Strategic Leader** 
+🌐 **Game Developer** • 🎨 **3D Design Enthusiast** • 🛡️ **Cybersecurity Researcher**  
+🎮 **Strategi Leader** 
 
 </div>
 
