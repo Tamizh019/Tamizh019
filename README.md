@@ -66,7 +66,6 @@ Building **production-ready applications** with modern technologies
 
 ## 🤖 **AI-Powered Workflow**
 **Philosophy:** *"Why code harder when you can code smarter? AI isn't replacing developers—it's making us superhuman."*
-- **Cursor AI** for accelerated development
 - AI-assisted debugging & optimization  
 - Rapid prototyping with intelligent code generation
 - Smart documentation & code review enhancement
