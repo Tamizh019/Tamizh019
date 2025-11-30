@@ -74,9 +74,10 @@ Building **production-ready applications** with modern technologies
 
 ## 📊 **GitHub Stats**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tamizh019&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tamizh019&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tamizh019&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Tamizh019&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
+
 
 
 ---
