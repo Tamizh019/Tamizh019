@@ -2,7 +2,7 @@
 
 # 👨‍💻 TAMIZHARASAN R
 
-### Full Stack Developer | AI Engineer | Open Source Contributor
+### Full Stack Developer | AI Engineer | Developer-in-Progress
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamizharasan-r-a6931828a/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tamizharasan-portfolio.netlify.app/)
