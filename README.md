@@ -68,23 +68,11 @@ I'm a Computer Science Engineering student specializing in **Artificial Intellig
 - **Innovation:** Intelligent clothing recommendations based on weather and occasions
 - **Tech Highlights:** React Context state management, responsive design with CSS variables
 
-### 📊 DreamTrack
-**Goal tracking & placement preparation platform for students**
-- **Stack:** React • Flask • PostgreSQL • JWT Auth
-- **Features:** Task management, progress analytics, deadline tracking
-- **Target:** Helping students organize placement preparation efficiently
-
 ### 🤖 ChillSpace Chatbot
 **Context-aware AI chatbot with MCP server integration**
 - **Stack:** React • Python • FastAPI • MCP Server • FAISS
 - **Features:** Semantic search, PDF knowledge base, RAG implementation
 - **Tech:** Vector embeddings for intelligent context retrieval
-
-### 🌤️ Weather Sync
-**IoT-based environmental monitoring system**
-- **Stack:** Arduino • DHT Sensors • C++ • LED Controllers
-- **Features:** Real-time humidity/temperature monitoring, automated LED brightness control
-- **Application:** Smart home automation and environmental data logging
 
 ---
 
