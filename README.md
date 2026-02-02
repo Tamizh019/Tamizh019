@@ -1,159 +1,255 @@
 <div align="center">
 
-# 👨‍💻 TAMIZHARASAN R
+#  Tamizharasan R
 
-### Full Stack Developer | AI Engineer | Developer-in-Progress
+**Full Stack Developer • AI Engineer • Problem Solver**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamizharasan-r-a6931828a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tamizharasan-portfolio.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jefftamizh@email.com)
+*Crafting intelligent, scalable applications that bridge innovation and impact*
 
-**CSE-AI Student** @ Sathyabama Institute of Science and Technology, Chennai
+<br>
 
-*Building scalable applications with AI integration • 19 • Chennai, India 🇮🇳*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamizharasan-r-a6931828a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tamizharasan-portfolio.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jefftamizh01@gmail.com)
+
+<br>
+
+<div align="center">
+
+```yaml
+ Education: B.Tech CSE - AI @ Sathyabama Institute, Chennai
+ Building: Chill Space V3 (Next.js + Rust + WebSockets)
+ Learning: DSA -  System Design -  Microservices Architecture
+ Open to: SDE Internships 2026 -  Open Source -  Hackathons
+```
+
+</div>
 
 </div>
 
 ---
 
-## 💫 About Me
+## Featured Projects
 
-I'm a Computer Science Engineering student specializing in **Artificial Intelligence**, passionate about building **production-ready full-stack applications** that solve real-world problems. My work spans web development, machine learning, IoT systems, and 3D design.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Current Focus:** Java DSA • Full-Stack Development • AI/ML Integration • CTF Competitions
+### 🌐 [Chill Space](https://tamizh-loginpage.netlify.app/) • [GitHub](https://github.com/Tamizh019/CHILL_SPACE_v3)
+**Real-Time Collaboration Hub**
+
+![Next.js](https://img.shields.io/badge/Next.js_16-black?style=flat-square&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase)
+![Rust](https://img.shields.io/badge/Rust-orange?style=flat-square&logo=rust)
+
+Real-time workspace for students with instant messaging, file sharing, and gamified productivity features.
+
+- 💬 Group chat with sub-100ms delivery
+- 📁 File sharing & code snippets
+- 🎮 Built-in games (Galaxy Match, Typing Race)
+- 🔥 Focus Mode with XP & streak tracking
+- ✨ Glassmorphism UI with Framer Motion
+
+</td>
+<td width="50%" valign="top">
+
+### 👔 [VALLUGE](https://valluge.netlify.app/) • [GitHub](https://github.com/Tamizh019/Smart_wardrobe)
+**AI Smart Wardrobe**
+
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs)
+![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)
+
+Digital closet with AI-powered outfit recommendations using Gemini API.
+
+- 🎨 Virtual wardrobe organization
+- 🤖 AI outfit suggestions (Gemini API)
+- ☀️ Weather-based recommendations
+- 💬 Interactive styling chatbot
+- 📱 Responsive mobile-first design
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [ChillSpace Chatbot](https://github.com/Tamizh019/Tamizh_CHATBOT-sparky)
+**RAG-Based Assistant**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
+![FAISS](https://img.shields.io/badge/FAISS-00ADD8?style=flat-square)
+
+Context-aware chatbot using RAG architecture for accurate responses.
+
+- 📄 PDF knowledge base processing
+- 🔍 Vector similarity search (FAISS)
+- 🧠 Retrieval-Augmented Generation
+- ⚡ FastAPI for high performance
+- 💻 React frontend with streaming
+
+</td>
+<td width="50%" valign="top">
+
+### 🌾 [AgriVision](https://github.com/Tamizh019/CropYield_Prediction)
+**AI Agricultural Platform**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
+![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask)
+
+ML-powered platform for smart farming and crop management.
+
+- 📊 Crop yield prediction (98% accuracy)
+- 🌿 Plant disease detection (CNN)
+- 💧 Smart fertilizer recommendations
+- 🌤️ Weather data integration
+- 🗄️ MySQL for crop analytics
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Technology Arsenal
+## Technical Stack
 
-<div align="center">
+**Core Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Frontend Development**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & Databases**
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+**AI/ML & Data Science**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-00ADD8?style=for-the-badge&logo=meta&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Tools & DevOps**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-
-## 🚀 Featured Projects
-
-### 🌀 [Chill Space](https://tamizh-loginpage.netlify.app/)
-**Modern real-time group chat & file sharing platform**
-- **Stack:** HTML/Css • Vanilla Js • Supabase • Real-time Broadcasting
-- **Features:** Group messaging, file sharing, authentication, live updates
-- **Impact:** Seamless communication experience with sub-second message delivery
-
-### 👔 Valluge
-**AI-powered digital wardrobe management system**
-- **Stack:** Next.js 16 • TypeScript • Tailwind CSS • Supabase • Gemini API • Framer Motion
-- **Features:** Virtual closet organization, AI outfit suggestions, chatbot assistant, smooth animations
-- **Innovation:** Intelligent clothing recommendations based on weather and occasions
-- **Tech Highlights:** React Context state management, responsive design with CSS variables
-
-### 🤖 ChillSpace Chatbot
-**Context-aware AI chatbot with MCP server integration**
-- **Stack:** React • Python • FastAPI • MCP Server • FAISS
-- **Features:** Semantic search, PDF knowledge base, RAG implementation
-- **Tech:** Vector embeddings for intelligent context retrieval
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
 
-## 🤖 AI-Powered Development Approach
-
-I leverage AI as a **force multiplier** in my development workflow:
-
-**🔍 Smart Development**
-- AI-assisted code review and optimization for cleaner, more efficient code
-- Intelligent debugging to identify edge cases and performance bottlenecks
-- Automated testing suggestions to improve code coverage
-
-**⚡ Rapid Prototyping**
-- Quick concept-to-code translation for faster iteration cycles
-- Boilerplate generation for common patterns and architectures
-- Documentation generation to maintain high-quality project docs
-
-**🎯 Continuous Learning**
-- AI-powered code explanations to understand complex libraries and frameworks
-- Pattern recognition from best practices across the open-source ecosystem
-- Real-time suggestions for security vulnerabilities and code smells
-
-> *"AI doesn't replace developers—it amplifies our capabilities. The future belongs to those who master both."*
-
----
-
-## 📊 GitHub Analytics
+## GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tamizh019&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Tamizh019&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<!-- Full Profile Details Banner -->
+<a href="https://github.com/Tamizh019">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tamizh019&theme=radical" alt="GitHub Profile Details" width="100%"/>
+</a>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tamizh019&theme=tokyonight&hide_border=true" />
+
+<!-- Stats + Top Languages Side by Side -->
+<a href="https://github.com/Tamizh019">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tamizh019&theme=radical" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tamizh019&theme=radical" alt="Top Languages by Commit"/>
+</a>
+
 </div>
+
+<div align="center">
+
+<!-- Contribution Streak -->
+<a href="https://github.com/Tamizh019">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Tamizh019&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</a>
+
+</div>
+
+<br>
 
 ---
 
-## 🎯 Current Objectives
+## What I'm Up To
 
 ```yaml
-Learning:
-  - Data Structures & Algorithms in Java
-  - Advanced system design patterns
-  - Microservices architecture with FastAPI
-  
-Building:
-  - Production-grade full-stack applications
-  - AI/ML integrated web solutions
-  - VR experiences with Unity
-  
-Competing:
-  - CTF cybersecurity challenges
-  - Hackathons and coding competitions
-  - Open source contributions
-  
-Target:
-  - Top tech internships (2026)
-  - Contributing to major open-source projects
+Current Sprint:
+  - 🔨 Building: Chill Space v3 (Rust + Next.js microservices)
+  - 📚 Learning: Advanced DSA patterns, System Design fundamentals
+  - 🎯 Target: SDE Internship 2026, FAANG interview prep
+
+Open to:
+  -  Internship opportunities (Summer 2026)
+  -  Open source collaborations
+  -  Hackathons & coding competitions
+  -  Tech talks & knowledge sharing
 ```
 
-## 🌟 Beyond Code
+---
 
-- 🎨 **3D Design:** Creating minimalist models with Blender
-- 🛡️ **Cybersecurity:** Participating in CTF competitions and malware analysis
-- 🎤 **Public Speaking:** Actively improving communication skills for tech presentations
+## Achievements & Highlights
+
+- **4 Production Apps** with high-impact potential
+- **AI Integration Expert** - RAG, LLMs, CV models
+- **Full-Stack Proficiency** - Frontend to ML pipelines
+- **Game Developer** - Unity VR & web-based games
+- **CTF Participant** - Cybersecurity enthusiast
 
 ---
+
+## Development Philosophy
+
+> **"AI amplifies capabilities—it doesn't replace problem-solving skills."**
+
+I leverage AI as a **productivity multiplier**:
+- ✅ **Code Review**: AI-assisted quality checks & optimization
+- ✅ **Rapid Prototyping**: Smart boilerplate generation
+- ✅ **Continuous Learning**: Staying updated with best practices
+- ✅ **Documentation**: Auto-generated, human-refined docs
+
+But I believe in **fundamentals first**: strong DSA, clean architecture, and scalable design.
+
+---
+
+## Let's Connect
 
 <div align="center">
 
-### 💬 Let's Connect & Build Together
+**Open to internships, collaborations, and tech discussions** 💬
 
-*Open to collaborations, hackathons, and interesting tech discussions*
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tamizharasan-r-a6931828a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome)](https://tamizharasan-portfolio.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail)](mailto:jefftamizh@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamizharasan-r-a6931828a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tamizharasan-portfolio.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jefftamizh01@gmail.com)
 
----
+<br>
 
 *"Building the future, one commit at a time"* 🚀
 
