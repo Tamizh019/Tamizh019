@@ -157,6 +157,4 @@ Target:
 
 *"Building the future, one commit at a time"* 🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=Tamizh019&color=blueviolet&style=flat-square)
-
 </div>
