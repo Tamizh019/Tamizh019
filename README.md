@@ -59,7 +59,7 @@ I work on the **application layer of AI** — not building LLMs from scratch, bu
 <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=fff" />
 </p>
 
-Group messaging with sub-100ms delivery, 9 built-in micro-tools (Chess, DSA Solver, Galaxy Match, Typing Race), gamified Focus Mode with XP, streaks & leaderboard. OAuth2 + row-level security.
+Group messaging with sub-100ms delivery, 9 built-in micro-tools ( Galaxy Match, Typing Race), gamified Focus Mode with XP, streaks & leaderboard. OAuth2 + row-level security.
 
 <p align="center">
 <a href="https://tamizh-loginpage.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-00d9ff?style=flat-square&logoColor=white" /></a>
