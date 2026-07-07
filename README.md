@@ -134,12 +134,12 @@ I don't build LLMs — I build *with* them. Multi-agent pipelines, self-correcti
 
 <!-- 3D CONTRIBUTION CALENDAR -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/Tamizh019/Tamizh019/output/profile-night-green.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Tamizh019/Tamizh019/output/profile-night-green.svg?v=1" width="100%"/>
 </div>
 
 <!-- SNAKE_START -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/Tamizh019/Tamizh019/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Tamizh019/Tamizh019/output/github-contribution-grid-snake-dark.svg?v=1" width="100%"/>
 </div>
 <!-- SNAKE_END -->
 
