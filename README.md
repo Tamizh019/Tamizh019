@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e293e,100:00d9ff&height=200&section=header&text=TAMIZHARASAN%20R&fontSize=46&fontColor=e2f6ff&fontAlignY=38&desc=Building%20the%20application%20layer%20of%20AI&descAlignY=58&descSize=17&descColor=94a3b8&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f172a,100:0d2c36&height=200&section=header&text=TAMIZHARASAN%20R&fontSize=46&fontColor=e2f6ff&fontAlignY=38&desc=Building%20the%20application%20layer%20of%20AI&descAlignY=58&descSize=17&descColor=94a3b8&fontFamily=Space%20Grotesk&animation=fadeIn" width="100%"/>
 
 <a href="https://tamizharasan-portfolio.netlify.app/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=00D9FF&center=true&vCenter=true&width=600&lines=RAG+Pipelines+%26+LLM+Orchestration;Final-Year+CSE+(AI)+%40+SIST%2C+Chennai;Shipping+full-stack+products%2C+not+just+demos;Open+to+AI+Engineering+%26+SDE+roles+2026" alt="Typing SVG" /></a>
 
@@ -134,7 +134,7 @@ I don't build LLMs — I build *with* them. Multi-agent pipelines, self-correcti
 
 <!-- 3D CONTRIBUTION CALENDAR -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/Tamizh019/Tamizh019/output/profile-night-green.svg?v=1" width="100%"/>
+<img src="https://raw.githubusercontent.com/Tamizh019/Tamizh019/output/profile-night-green.svg?v=2" width="100%"/>
 </div>
 
 <!-- SNAKE_START -->
@@ -166,4 +166,4 @@ I don't build LLMs — I build *with* them. Multi-agent pipelines, self-correcti
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0f172a&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d2c36,100:0f172a&height=80&section=footer" width="100%"/>
