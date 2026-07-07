@@ -17,6 +17,16 @@
 <td width="25%" align="center">💼<br/><sub><b>Open to 2026 roles</b></sub></td>
 </tr>
 </table>
+
+  <div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/tamizharasan-r-a6931828a/)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=00d9ff)](https://tamizharasan-portfolio.netlify.app/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:jefftamizh@gmail.com)
+
+</div>
 </div>
 
 <div align="center">
