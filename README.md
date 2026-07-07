@@ -1,278 +1,153 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=130&text=Tamizharasan%20R&fontSize=62&fontColor=00d9ff&fontFamily=Space%20Grotesk&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer&descSize=18&descColor=94a3b8&descAlign=50&fontAlign=50&descAlignY=72" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e293e,100:00d9ff&height=200&section=header&text=TAMIZHARASAN%20R&fontSize=46&fontColor=e2f6ff&fontAlignY=38&desc=Building%20the%20application%20layer%20of%20AI&descAlignY=58&descSize=17&descColor=94a3b8&animation=fadeIn" width="100%"/>
 
-<br />
-
-<!-- Contact Badges -->
-[![Portfolio](https://img.shields.io/badge/portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=00d9ff)](https://tamizharasan-portfolio.netlify.app/)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=00d9ff)](https://www.linkedin.com/in/tamizharasan-r-a6931828a/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=00d9ff)](mailto:jefftamizh@gmail.com)
+<a href="https://tamizharasan-portfolio.netlify.app/"><img src="https://readme-typing-svg.demolab.com/api?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=00D9FF&center=true&vCenter=true&width=600&lines=RAG+Pipelines+%26+LLM+Orchestration;Final-Year+CSE+(AI)+%40+SIST%2C+Chennai;Shipping+full-stack+products%2C+not+just+demos;Open+to+AI+Engineering+%26+SDE+roles+2026" alt="Typing SVG" /></a>
 
 </div>
 
-<br />
+<br/>
 
-<!-- Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
-
-<br />
-
-## `> whoami`
-
-```
- B.E CSE (AI)  ·  Sathyabama Institute of Science & Technology, Chennai
- 3rd Year  ·  Specialisation: Artificial Intelligence & ML
-```
-
-I work on the **application layer of AI** — not building LLMs from scratch, but engineering how they behave inside real products. RAG pipelines, prompt orchestration, response control, and wrapping it all in clean full-stack systems.
-
-> *"Making AI talk is easy. Making it reliable is engineering."*
-
-<br />
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
-
-<br />
-
-## `> ls ./projects`
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
-
-<h3 align="center">
-<a href="https://tamizh-loginpage.netlify.app/">Chill Space v3</a>
-</h3>
-
-<p align="center">
-<strong>Real-time collaboration platform</strong>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=fff" />
-<img src="https://img.shields.io/badge/Rust-B7410E?style=flat-square&logo=rust&logoColor=fff" />
-<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=fff" />
-</p>
-
-Group messaging with sub-100ms delivery, 9 built-in micro-tools ( Galaxy Match, Typing Race), gamified Focus Mode with XP, streaks & leaderboard. OAuth2 + row-level security.
-
-<p align="center">
-<a href="https://tamizh-loginpage.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-00d9ff?style=flat-square&logoColor=white" /></a>
-<a href="https://github.com/Tamizh019/CHILL_SPACE_v3"><img src="https://img.shields.io/badge/Source_Code-111827?style=flat-square&logo=github&logoColor=white" /></a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">
-<a href="https://valluge.netlify.app/">Valluge — AI Wardrobe</a>
-</h3>
-
-<p align="center">
-<strong>AI-powered digital closet</strong>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
-<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=fff" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=fff" />
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=fff" />
-</p>
-
-Gemini API recommends outfits based on weather, occasion & style. Includes a real-time weather integration, LLM styling chatbot, and PostgreSQL clothing inventory with image upload & filter search.
-
-<p align="center">
-<a href="https://valluge.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-00d9ff?style=flat-square&logoColor=white" /></a>
-<a href="https://github.com/Tamizh019/Smart_wardrobe"><img src="https://img.shields.io/badge/Source_Code-111827?style=flat-square&logo=github&logoColor=white" /></a>
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">
-<a href="https://github.com/Tamizh019/CHATBOT-sparky">Sparky — RAG Chatbot</a>
-</h3>
-
-<p align="center">
-<strong>Context-aware AI assistant</strong>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=fff" />
-<img src="https://img.shields.io/badge/FAISS-00ADD8?style=flat-square&logo=meta&logoColor=fff" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=fff" />
-</p>
-
-RAG pipeline: PDF ingestion → text chunking → FAISS vector indexing → LangChain orchestration. Streaming FastAPI backend + React chat frontend. Source-cited, hallucination-reduced responses.
-
-<p align="center">
-<a href="https://github.com/Tamizh019/CHATBOT-sparky"><img src="https://img.shields.io/badge/Source_Code-111827?style=flat-square&logo=github&logoColor=white" /></a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">
-<a href="https://github.com/Tamizh019/CropYield_Prediction">AgriVision — AI Crop Platform</a>
-</h3>
-
-<p align="center">
-<strong>ML platform for smart farming</strong>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=fff" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=fff" />
-<img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=fff" />
-</p>
-
-98% accuracy crop yield prediction with ensemble regression. CNN-based plant disease detection across 10+ crop variants. AI-driven fertiliser & irrigation recommendations served via Flask REST API.
-
-<p align="center">
-<a href="https://github.com/Tamizh019/CropYield_Prediction"><img src="https://img.shields.io/badge/Source_Code-111827?style=flat-square&logo=github&logoColor=white" /></a>
-</p>
-
-</td>
+<td width="25%" align="center">📍<br/><sub><b>Chennai, India</b></sub></td>
+<td width="25%" align="center">🎓<br/><sub><b>Final Year · SIST</b></sub></td>
+<td width="25%" align="center">🔭<br/><sub><b>Final-Year Project</b></sub></td>
+<td width="25%" align="center">💼<br/><sub><b>Open to 2026 roles</b></sub></td>
 </tr>
 </table>
 
-<br />
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+</div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
+### The short version
 
-<br />
+I don't train models — I engineer how they behave once they're in a real product. Retrieval, orchestration, guardrails, and the full-stack plumbing around them. If it ships and someone other than me clicks on it, that's the bar.
 
-## `> cat ./stack.yml`
+<br/>
 
-<table>
-<tr>
-<th align="left" width="180">Domain</th>
-<th align="left">Technologies</th>
-</tr>
-<tr>
-<td><strong>AI & LLMs</strong></td>
-<td>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=fff" />
-<img src="https://img.shields.io/badge/FAISS-00ADD8?style=flat-square&logo=meta&logoColor=fff" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=fff" />
-<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=fff" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=fff" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=fff" />
-</td>
-</tr>
-<tr>
-<td><strong>Frontend</strong></td>
-<td>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=fff" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff" />
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=fff" />
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=fff" />
-</td>
-</tr>
-<tr>
-<td><strong>Backend</strong></td>
-<td>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=fff" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=fff" />
-<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=fff" />
-</td>
-</tr>
-<tr>
-<td><strong>Data</strong></td>
-<td>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=fff" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=fff" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff" />
-</td>
-</tr>
-<tr>
-<td><strong>Languages</strong></td>
-<td>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=fff" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
-</td>
-</tr>
-<tr>
-<td><strong>Tools</strong></td>
-<td>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=fff" />
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=fff" />
-</td>
-</tr>
-</table>
+## Featured Builds
 
-<br />
+<details open>
+<summary><b>🟦 Chill Space — real-time collaboration platform</b></summary>
+<br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
+> Group chat with sub-100ms delivery, built-in multiplayer games, a live collaborative code editor, and a gamified Focus Mode (XP, streaks, leaderboard). OAuth2 + row-level security under the hood.
 
-<br />
+<img src="https://skillicons.dev/icons?i=nextjs,ts,supabase,rust,socketio&theme=dark" height="32"/>
 
-## `> git log --oneline`
+**[→ Live Demo](https://tamizh-loginpage.netlify.app/)** &nbsp;|&nbsp; **[→ Source](https://github.com/Tamizh019/CHILL_SPACE_v3)**
+
+</details>
+
+<details>
+<summary><b>🟩 Data-Talk — conversational AI for databases</b></summary>
+<br/>
+
+> A 10-agent pipeline that lets anyone chat with a PostgreSQL database in plain English. Dedicated agents for SQL generation, QA review, and Python analytics; self-correcting SQL that auto-retries on rejection; schema RAG via pgvector + LlamaIndex with an MD5-hashed embedding cache; 23+ AI-selected Plotly.js chart types streamed live over SSE.
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,langchain,redis,supabase&theme=dark" height="32"/>
+
+**[→ Source](https://github.com/Tamizh019/Data-Talk)**
+
+</details>
+
+<details>
+<summary><b>🟪 Valluge — AI wardrobe</b></summary>
+<br/>
+
+> An AI-powered digital closet. Gemini API recommends outfits by weather, occasion, and personal style, backed by a conversational styling chatbot and a searchable clothing inventory with image upload.
+
+<img src="https://skillicons.dev/icons?i=nextjs,gemini,postgres,tailwind&theme=dark" height="32"/>
+
+**[→ Live Demo](https://valluge.netlify.app/)** &nbsp;|&nbsp; **[→ Source](https://github.com/Tamizh019/Smart_wardrobe)**
+
+</details>
+
+<br/>
+
+## Arsenal
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<a href="https://github.com/Tamizh019">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tamizh019&theme=github_dark" alt="Profile Details" />
-</a>
+**AI / ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,opencv&theme=dark"/>
+&nbsp;&nbsp;<code>LangChain</code>&nbsp;<code>LlamaIndex</code>&nbsp;<code>FAISS</code>&nbsp;<code>Gemini API</code>
 
-<br /><br />
+<br/><br/>
 
-<a href="https://github.com/Tamizh019">
-  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tamizh019&theme=github_dark" />
-  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tamizh019&theme=github_dark" />
-  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tamizh019&theme=github_dark&utcOffset=5.5" />
-</a>
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&theme=dark"/>
+&nbsp;&nbsp;<code>Framer Motion</code>
 
-<br /><br />
+<br/><br/>
 
-<!-- Streak -->
-<a href="https://github.com/Tamizh019">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Tamizh019&theme=github-dark-blue&hide_border=true&ring=00d9ff&fire=a855f7&currStreakLabel=00d9ff" alt="Streak" />
-</a>
+**Backend & Data**
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,spring,postgres,mysql,redis&theme=dark"/>
+&nbsp;&nbsp;<code>Supabase</code>&nbsp;<code>pgvector</code>&nbsp;<code>WebSockets</code>
+
+<br/><br/>
+
+**Tooling**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,docker,vscode&theme=dark"/>
 
 </div>
 
-<br />
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+</div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
+## Activity
 
-<br />
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Tamizh019&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00d9ff&icon_color=00d9ff&text_color=94a3b8&ring_color=00d9ff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamizh019&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00d9ff&text_color=94a3b8" height="165"/>
+</div>
 
-## `> cat ./status.md`
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tamizh019&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=00d9ff&line=00d9ff&point=e2f6ff&area=true&area_color=0e293e" width="100%"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Tamizh019&theme=tokyonight&hide_border=true&background=0f172a&ring=00d9ff&fire=a855f7&currStreakLabel=00d9ff" />
+</div>
+
+<!-- SNAKE_START -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tamizh019/Tamizh019/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+<!-- SNAKE_END -->
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+</div>
+
+## Right now
 
 ```diff
-+ Currently building: Chill Space v3 — Rust-powered backend services
-+ Deepening: DSA patterns & System Design for 2026 prep
-+ Open to: AI Engineering & SDE Internships — Summer 2026
-! Focus Areas: RAG Pipelines · LLM Orchestration · Production AI Systems
++ Building     final-year project
++ Grinding     Python DSA, daily
++ Deep-diving  LLM orchestration & agentic systems
+! Open to      AI Engineering & SDE Internships, 2026
 ```
-
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/tamizharasan-r-a6931828a/)
-&nbsp;·&nbsp;
+&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=00d9ff)](https://tamizharasan-portfolio.netlify.app/)
-&nbsp;·&nbsp;
+&nbsp;
 [![Email](https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:jefftamizh@gmail.com)
 
-<sub>Open to AI Engineering & SDE Internships — Summer 2026</sub>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Tamizh019&label=Profile+Views&color=00d9ff&style=flat" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0f172a&height=80&section=footer" width="100%"/>
