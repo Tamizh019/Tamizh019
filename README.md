@@ -2,13 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e293e,100:00d9ff&height=200&section=header&text=TAMIZHARASAN%20R&fontSize=46&fontColor=e2f6ff&fontAlignY=38&desc=Building%20the%20application%20layer%20of%20AI&descAlignY=58&descSize=17&descColor=94a3b8&animation=fadeIn" width="100%"/>
 
-<a href="https://tamizharasan-portfolio.netlify.app/"><img src="https://readme-typing-svg.demolab.com/api?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=00D9FF&center=true&vCenter=true&width=600&lines=RAG+Pipelines+%26+LLM+Orchestration;Final-Year+CSE+(AI)+%40+SIST%2C+Chennai;Shipping+full-stack+products%2C+not+just+demos;Open+to+AI+Engineering+%26+SDE+roles+2026" alt="Typing SVG" /></a>
+<a href="https://tamizharasan-portfolio.netlify.app/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=00D9FF&center=true&vCenter=true&width=600&lines=RAG+Pipelines+%26+LLM+Orchestration;Final-Year+CSE+(AI)+%40+SIST%2C+Chennai;Shipping+full-stack+products%2C+not+just+demos;Open+to+AI+Engineering+%26+SDE+roles+2026" alt="Typing SVG" /></a>
 
 </div>
 
 <br/>
 
-<table width="100%">
+<div align="center">
+<table>
 <tr>
 <td width="25%" align="center">📍<br/><sub><b>Chennai, India</b></sub></td>
 <td width="25%" align="center">🎓<br/><sub><b>Final Year · SIST</b></sub></td>
@@ -16,6 +17,7 @@
 <td width="25%" align="center">💼<br/><sub><b>Open to 2026 roles</b></sub></td>
 </tr>
 </table>
+</div>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
@@ -23,7 +25,7 @@
 
 ### The short version
 
-I don't train models — I engineer how they behave once they're in a real product. Retrieval, orchestration, guardrails, and the full-stack plumbing around them. If it ships and someone other than me clicks on it, that's the bar.
+I don't build LLMs — I build *with* them. Multi-agent pipelines, self-correcting RAG systems, and the full-stack products around them. If it works in production and not just in a notebook, I'm interested.
 
 <br/>
 
@@ -35,7 +37,9 @@ I don't train models — I engineer how they behave once they're in a real produ
 
 > Group chat with sub-100ms delivery, built-in multiplayer games, a live collaborative code editor, and a gamified Focus Mode (XP, streaks, leaderboard). OAuth2 + row-level security under the hood.
 
-<img src="https://skillicons.dev/icons?i=nextjs,ts,supabase,rust,socketio&theme=dark" height="32"/>
+<img src="https://skillicons.dev/icons?i=nextjs,ts,supabase,rust&theme=dark" height="32"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=fff" height="25"/>
 
 **[→ Live Demo](https://tamizh-loginpage.netlify.app/)** &nbsp;|&nbsp; **[→ Source](https://github.com/Tamizh019/CHILL_SPACE_v3)**
 
@@ -47,7 +51,9 @@ I don't train models — I engineer how they behave once they're in a real produ
 
 > A 10-agent pipeline that lets anyone chat with a PostgreSQL database in plain English. Dedicated agents for SQL generation, QA review, and Python analytics; self-correcting SQL that auto-retries on rejection; schema RAG via pgvector + LlamaIndex with an MD5-hashed embedding cache; 23+ AI-selected Plotly.js chart types streamed live over SSE.
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,langchain,redis,supabase&theme=dark" height="32"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,redis,supabase&theme=dark" height="32"/>
+&nbsp;
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=fff" height="25"/>
 
 **[→ Source](https://github.com/Tamizh019/Data-Talk)**
 
@@ -59,7 +65,9 @@ I don't train models — I engineer how they behave once they're in a real produ
 
 > An AI-powered digital closet. Gemini API recommends outfits by weather, occasion, and personal style, backed by a conversational styling chatbot and a searchable clothing inventory with image upload.
 
-<img src="https://skillicons.dev/icons?i=nextjs,gemini,postgres,tailwind&theme=dark" height="32"/>
+<img src="https://skillicons.dev/icons?i=nextjs,postgres,tailwind&theme=dark" height="32"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=fff" height="25"/>
 
 **[→ Live Demo](https://valluge.netlify.app/)** &nbsp;|&nbsp; **[→ Source](https://github.com/Tamizh019/Smart_wardrobe)**
 
@@ -74,21 +82,28 @@ I don't train models — I engineer how they behave once they're in a real produ
 **AI / ML**
 <br/>
 <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,opencv&theme=dark"/>
-&nbsp;&nbsp;<code>LangChain</code>&nbsp;<code>LlamaIndex</code>&nbsp;<code>FAISS</code>&nbsp;<code>Gemini API</code>
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=fff" />
+<img src="https://img.shields.io/badge/LlamaIndex-6B21A8?style=flat-square&logoColor=fff" />
+<img src="https://img.shields.io/badge/FAISS-0668E1?style=flat-square&logo=meta&logoColor=fff" />
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=fff" />
 
 <br/><br/>
 
 **Frontend**
 <br/>
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&theme=dark"/>
-&nbsp;&nbsp;<code>Framer Motion</code>
+<br/>
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=fff" />
 
 <br/><br/>
 
 **Backend & Data**
 <br/>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,spring,postgres,mysql,redis&theme=dark"/>
-&nbsp;&nbsp;<code>Supabase</code>&nbsp;<code>pgvector</code>&nbsp;<code>WebSockets</code>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,spring,postgres,mysql,redis,supabase&theme=dark"/>
+<br/>
+<img src="https://img.shields.io/badge/pgvector-316192?style=flat-square&logo=postgresql&logoColor=fff" />
+<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=fff" />
 
 <br/><br/>
 
@@ -117,6 +132,11 @@ I don't train models — I engineer how they behave once they're in a real produ
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Tamizh019&theme=tokyonight&hide_border=true&background=0f172a&ring=00d9ff&fire=a855f7&currStreakLabel=00d9ff" />
 </div>
 
+<!-- 3D CONTRIBUTION CALENDAR -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tamizh019/Tamizh019/output/profile-night-green.svg" width="100%"/>
+</div>
+
 <!-- SNAKE_START -->
 <div align="center">
 <img src="https://raw.githubusercontent.com/Tamizh019/Tamizh019/output/github-contribution-grid-snake-dark.svg" width="100%"/>
@@ -143,10 +163,6 @@ I don't train models — I engineer how they behave once they're in a real produ
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=00d9ff)](https://tamizharasan-portfolio.netlify.app/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:jefftamizh@gmail.com)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Tamizh019&label=Profile+Views&color=00d9ff&style=flat" />
 
 </div>
 
