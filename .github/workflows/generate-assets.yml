@@ -36,7 +36,7 @@ jobs:
       # 3. Copy 3D SVGs into the dist/ directory so they are packaged together
       - name: Combine files
         run: |
-          cp -r profile-3d-contrib/* dist/
+          sudo cp -r profile-3d-contrib/* dist/
 
       # 4. Push everything in dist/ to the output branch
       - name: Push profile assets to the "output" branch
